@@ -1,74 +1,68 @@
 # <p align="center">⚔️ RPA-Extraction-RPYC-Decompilation ⚔️</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/platform-linux-blue" />
-  <img src="https://img.shields.io/badge/engine-Ren'Py-purple" />
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/platform-linux-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/engine-Ren'Py-purple?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <strong>The Ultimate RPA Extraction & RPYC Decompilation Engine for Linux.</strong>
+  <img src="https://img.shields.io/badge/VASTOLORDEX-SUPER_TOOL-red?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-LINUX_ULTIMATE-00FF00?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/DECOMPILE-PRO_MODE-blue?style=for-the-badge&logo=terminal&logoColor=white" />
 </p>
 
 ---
 
-## ⚡ <ins>NEO EXTRACTION POWER</ins>
+## ⚡ <font color="#ff0000">POWERFUL EXTRACTION FOR LINUX</font>
 
-**VastoLordeX** is a high-performance utility designed for the Linux modding community. It provides precision tools to handle Ren'Py engine files with ease.
+> [!IMPORTANT]
+> **VastoLordeX** is the premier choice for **Ren'Py** asset management. Designed for speed, built for Linux.
 
-> [!IMPORTANT]  
-> **LINUX USERS:** This tool is natively optimized for Kali, Ubuntu, and Debian-based systems.
+### 💎 <ins>NEO FEATURES</ins>
 
-### 💎 CORE CAPABILITIES
-* 📦 **RPA UNPACKER:** Instant extraction of game archives.
-* 🔓 **RPYC DECOMPILER:** Smooth conversion to readable `.rpy` scripts.
-* 🐧 **PURE LINUX:** No Wine, no lag, just raw performance.
+* 🟥 **RPA CRUSHER:** Extract game archives instantly.
+* 🟩 **RPYC BREAKER:** Convert compiled scripts to source code.
+* 🟦 **LINUX NATIVE:** Zero lag, zero dependencies on Windows layers.
 
 ---
 
-## 🔴 <ins>OFFICIAL DOWNLOAD</ins>
+## 🔴 <font color="#ff0000">DOWNLOAD MIRROR</font>
 
-The ready-to-use binaries are available on the official **itch.io** page:
+The binary files are hosted on **itch.io** for maximum security and speed.
 
 <p align="center">
   <a href="https://vastolordex.itch.io/rpa-extraction-rpyc-decompilation-engine">
-    <img src="https://img.shields.io/badge/DOWNLOAD_VASTOLORDEX-FF0000?style=for-the-badge&logo=itch.io&logoColor=white" />
+    <img src="https://img.shields.io/badge/—_CLICK_TO_DOWNLOAD_VASTOLORDEX_—-white?style=for-the-badge&logo=itch.io&logoColor=ff0000" />
   </a>
 </p>
 
-<p align="center">
-  👉 <strong><a href="https://vastolordex.itch.io/rpa-extraction-rpyc-decompilation-engine">Click Here to Visit itch.io</a></strong>
-</p>
-
 ---
 
-## 🎨 <ins>SYSTEM COMPATIBILITY</ins>
+## 🎨 <ins>COMPATIBILITY MATRIX</ins>
 
-| 💻 OS | 🚀 STATUS | 🌈 STYLE |
+| 🟢 SYSTEM | 🔵 STATUS | 🟡 PERFORMANCE |
 | :--- | :--- | :--- |
-| **KALI LINUX** | `VERIFIED` | `NEO-GREEN` |
-| **UBUNTU** | `STABLE` | `NEO-ORANGE` |
-| **DEBIAN** | `STABLE` | `NEO-RED` |
+| **KALI LINUX** | `STABLE` | `ULTRA` |
+| **UBUNTU** | `STABLE` | `FAST` |
+| **DEBIAN** | `STABLE` | `FAST` |
 
 ---
 
-## ⚠️ <ins>LEGAL & SAFETY</ins>
+## ⚠️ <font color="#ffff00">LEGAL & SAFETY</font>
 
 > [!CAUTION]
-> **REPOSITORY NOTICE:** This GitHub page contains documentation only. No tool binaries are hosted here for security reasons.
-> 
-> **USE RESPONSIBLY:** This tool is for **educational and modding purposes only**. Respect the work of original game developers.
+> **NO BINARIES HERE:** This GitHub repository is a **DOCS-ONLY** zone.
+>
+> **ETHICAL MODDING:** Use this tool for educational purposes only. Respect the creators of the games you explore.
 
 ---
 
-## 👤 <ins>CREATOR</ins>
+## 👑 <ins>CREATOR</ins>
 
-<p align="left">
-  <strong>Maintained by:</strong> <code>VastoLordeX /code>
-</p>
+**Developed by: VastoLordeX ** *Transforming the Linux Modding Scene.*
 
 ---
 
-## 🛡️ <ins>LICENSE</ins>
+## 🛡️ <ins>PROTECTION</ins>
 
-This project is provided **as-is**. Check the `LICENSE` file for more details.
+Licensed under the **Project-As-Is** protocol. Check `LICENSE` for the fine print.
